@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Thirty Days of Coding</string>
+    <string name="day_number">Day %d</string>
+
+    <!-- Day 1 -->
+    <string name="day1_title">Variables and Data Types</string>
+    <string name="day1_description">Learn the building blocks of any program. Understand how to declare variables using val and var, and explore basic types like Int, String, Boolean, and Double.</string>
+
+    <!-- Day 2 -->
+    <string name="day2_title">Conditionals and When</string>
+    <string name="day2_description">Master decision-making in code. Practice using if/else and the powerful when expression to control the flow of your program based on conditions.</string>
+
+    <!-- Day 3 -->
+    <string name="day3_title">Functions</string>
+    <string name="day3_description">Learn how to write reusable blocks of code. Understand parameters, return types, and why breaking your code into functions makes it cleaner and easier to maintain.</string>
+
+    <!-- Day 4 -->
+    <string name="day4_title">Loops and Iteration</string>
+    <string name="day4_description">Discover how to repeat actions efficiently using for loops, while loops, and the repeat function. Learn how to iterate over ranges and collections.</string>
+
+    <!-- Day 5 -->
+    <string name="day5_title">Nullability and Safe Calls</string>
+    <string name="day5_description">Understand one of Kotlin\'s greatest strengths — null safety. Learn how to handle nullable types using the ? operator, ?: Elvis operator, and !! with care.</string>
+
+    <!-- Day 6 -->
+    <string name="day6_title">Classes and Objects</string>
+    <string name="day6_description">Dive into object-oriented programming. Learn how to model real-world things using classes, create objects from them, and define properties and behaviors.</string>
+
+    <!-- Day 7 -->
+    <string name="day7_title">Inheritance and Interfaces</string>
+    <string name="day7_description">Learn how classes can share behavior through inheritance and interfaces. Understand the open keyword and when to use abstract classes vs interfaces.</string>
+
+    <!-- Day 8 -->
+    <string name="day8_title">Lambda Functions</string>
+    <string name="day8_description">Explore Kotlin\'s functional side. Learn how to write short, powerful functions as expressions and pass them as arguments to other functions.</string>
+
+    <!-- Day 9 -->
+    <string name="day9_title">Collections — List and MutableList</string>
+    <string name="day9_description">Learn how to group related data together. Understand the difference between read-only List and MutableList, and practice common operations like add, remove, and filter.</string>
+
+    <!-- Day 10 -->
+    <string name="day10_title">Collections — Map and Set</string>
+    <string name="day10_description">Go beyond lists. Discover Map for key-value pairs and Set for unique collections. Learn when to use each and how to query them effectively.</string>
+
+    <!-- Day 11 -->
+    <string name="day11_title">Higher-Order Functions</string>
+    <string name="day11_description">Deepen your functional programming skills. Explore powerful Kotlin functions like map, filter, forEach, and reduce that transform collections elegantly.</string>
+
+    <!-- Day 12 -->
+    <string name="day12_title">Jetpack Compose Basics</string>
+    <string name="day12_description">Start your UI journey. Learn what composable functions are, how the declarative UI model works, and why Compose is a major shift from the old XML approach.</string>
+
+    <!-- Day 13 -->
+    <string name="day13_title">Rows, Columns, and Box</string>
+    <string name="day13_description">Master the three fundamental layout composables. Understand how to arrange elements horizontally, vertically, and in layers using Row, Column, and Box.</string>
+
+    <!-- Day 14 -->
+    <string name="day14_title">Modifier</string>
+    <string name="day14_description">Learn how Modifier is used to decorate and configure any composable. Practice setting size, padding, background, clickable, and more using the modifier chain.</string>
+
+    <!-- Day 15 -->
+    <string name="day15_title">State and Remember</string>
+    <string name="day15_description">Understand the heart of Compose — state. Learn how remember and mutableStateOf work together to make your UI react and update when data changes.</string>
+
+    <!-- Day 16 -->
+    <string name="day16_title">Recomposition</string>
+    <string name="day16_description">Go deeper on how Compose works under the hood. Understand what triggers recomposition, why it matters for performance, and how to write composables that recompose efficiently.</string>
+
+    <!-- Day 17 -->
+    <string name="day17_title">LazyColumn and LazyRow</string>
+    <string name="day17_description">Learn how to display large lists efficiently. Understand why LazyColumn only renders visible items and how it differs from a regular Column.</string>
+
+    <!-- Day 18 -->
+    <string name="day18_title">Material 3 Theming</string>
+    <string name="day18_description">Make your app look polished and consistent. Explore how Material 3 theming works in Compose — colors, typography, and shapes — and how to customize them.</string>
+
+    <!-- Day 19 -->
+    <string name="day19_title">Images with Painter</string>
+    <string name="day19_description">Learn how to display images in Compose using Image composable and painterResource. Understand content scale options and how to make images look great on all screen sizes.</string>
+
+    <!-- Day 20 -->
+    <string name="day20_title">Cards and Elevation</string>
+    <string name="day20_description">Discover how to group content beautifully using the Card composable. Learn how elevation and shadow create visual hierarchy in Material Design.</string>
+
+    <!-- Day 21 -->
+    <string name="day21_title">Icon and Icon Buttons</string>
+    <string name="day21_description">Add visual cues to your UI using Material icons. Learn how to use Icon and IconButton, import the extended icons library, and make your UI more intuitive.</string>
+
+    <!-- Day 22 -->
+    <string name="day22_title">Animation Basics</string>
+    <string name="day22_description">Bring your UI to life. Learn how to add smooth animations using animateContentSize, animateDpAsState, and other simple Compose animation APIs.</string>
+
+    <!-- Day 23 -->
+    <string name="day23_title">ViewModel Introduction</string>
+    <string name="day23_description">Take your first step into app architecture. Understand what a ViewModel is, why it exists, and how it survives screen rotations while keeping your UI state safe.</string>
+
+    <!-- Day 24 -->
+    <string name="day24_title">State Hoisting</string>
+    <string name="day24_description">Learn the important pattern of moving state upward. Understand why stateless composables are more reusable and testable, and how to hoist state properly.</string>
+
+    <!-- Day 25 -->
+    <string name="day25_title">Navigation in Compose</string>
+    <string name="day25_description">Learn how to move between screens in a Compose app. Explore NavController, NavHost, and composable destinations to build multi-screen applications.</string>
+
+    <!-- Day 26 -->
+    <string name="day26_title">Coroutines Basics</string>
+    <string name="day26_description">Understand asynchronous programming in Kotlin. Learn what coroutines are, why they replace callbacks, and how launch and suspend functions work together.</string>
+
+    <!-- Day 27 -->
+    <string name="day27_title">Room Database</string>
+    <string name="day27_description">Persist data locally on the device. Get introduced to Room, Android\'s SQLite wrapper. Learn about Entity, DAO, and Database and how they work together.</string>
+
+    <!-- Day 28 -->
+    <string name="day28_title">Reading from the Internet</string>
+    <string name="day28_description">Connect your app to the outside world. Learn how to make network requests using Retrofit, parse JSON responses, and display real data in your UI.</string>
+
+    <!-- Day 29 -->
+    <string name="day29_title">Repository Pattern</string>
+    <string name="day29_description">Learn how to organize your data layer cleanly. Understand the Repository pattern and how it acts as a single source of truth between your ViewModel and data sources.</string>
+
+    <!-- Day 30 -->
+    <string name="day30_title">You Made It!</string>
+    <string name="day30_description">Congratulations on completing 30 days of coding. You have covered Kotlin fundamentals, Jetpack Compose UI, state management, architecture, persistence, and networking. Now go build something amazing.</string>
+
+</resources>
