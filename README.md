@@ -4,8 +4,6 @@ An Android app built with **Kotlin** and **Jetpack Compose** that guides users t
 
 ## 📱 Screenshots
 
-## 📱 Screenshots
-
 <img src="screenshots/home_screen.png" width="300" alt="Home Screen"/>
 
 ## ✨ Features
